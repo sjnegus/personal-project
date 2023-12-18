@@ -28,3 +28,8 @@ a.navbar-brand {
     font-size: 2rem;
 }
 
+div#dd-text {
+    background-color: rgba(232, 229, 220, .8);
+    width: 100%;
+}
+
