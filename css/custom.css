@@ -1,0 +1,30 @@
+section#dungeon-bg {
+    background-image: url(/images/istockphoto-649566176-1024x1024.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(232, 229, 220, .5);
+}
+
+div#dungeon-intro-ss {
+    
+} 
+
+section.contact-main {
+    background-image: url(/images/website_under_construction.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+div.contact-form {
+    background-color: rgba(232, 229, 220, .95);
+}
+
+img.rounded-circle.me-3 {
+    width: 100px;
+}
+
+a.navbar-brand {
+    font-size: 2rem;
+}
+
