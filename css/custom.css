@@ -1,13 +1,14 @@
-section#dungeon-bg {
-    background-image: url(/images/istockphoto-649566176-1024x1024.jpg);
+div#dungeon-bg {
+    background-image: url(/images/dungeon_dweller_code.png);
     background-size: cover;
     background-position: center;
-    background-color: rgba(232, 229, 220, .5);
+    filter: blur(4px);
+    width: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
 }
-
-div#dungeon-intro-ss {
-    
-} 
 
 section.contact-main {
     background-image: url(/images/website_under_construction.jpg);
@@ -29,7 +30,8 @@ a.navbar-brand {
 }
 
 div#dd-text {
-    background-color: rgba(232, 229, 220, .8);
+    background-color: rgba(232, 229, 220, .9);
     width: 100%;
+    border-radius: 5px;
 }
 
