@@ -10,4 +10,4 @@ today = today.getFullYear()
 
 let copyright = document.getElementById('copyright')
 copyright.textContent = '&copy;'
-copyright.innerHTML = `&copy; ${today} Sam Negus`
+copyright.innerHTML = `Copyright &copy; ${today} | Sam Negus`
