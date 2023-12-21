@@ -17,6 +17,13 @@ section.contact-main {
     background-attachment: fixed;
 }
 
+ul {
+    list-style: none;
+}
+
+a h5.fw-bolder.text-light {
+    text-decoration: none;
+}
 div.contact-form {
     background-color: rgba(232, 229, 220, .95);
 }
